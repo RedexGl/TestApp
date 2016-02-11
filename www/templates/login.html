@@ -1,0 +1,31 @@
+<ion-view>
+  <ion-content>
+    <br><br>
+   <center> <i class="icon icon-left textAlignCenter fontSize fontInput fontStyle ion-person">Login</i></center>
+    <div class="row row-center">
+      <div class="col col-10"></div>
+      <div class="col-80">
+        <div class="card cardRadius">
+          <div class="item item-text-wrap">
+            <div class="list">
+              <label class="item item-input">
+                <input type="text" class="fontInput" ng-model="user.Login" placeholder="Login">
+              </label>
+              <label class="item  item-input">
+                <input type="password" class="fontInput" ng-model="user.Passwor" placeholder="Password">
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col col-10"></div>
+    </div>
+    <div class="row row-center">
+      <div class="col col-40"></div>
+      <div class="col col-20">
+        <button class="buttonRadius button buttonMargin buttonPadding button-clear button-positive ion-log-in button-full" ng-click="login()">Login</button>
+      </div>
+      <div class="col col-40"></div>
+    </div>
+  </ion-content>
+</ion-view>

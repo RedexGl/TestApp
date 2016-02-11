@@ -1,0 +1,296 @@
+/* Empty. Add your own CSS if you like */
+/*.createOpacity{
+  opacity: 0.5;
+}
+
+.textAlignCenter{
+  text-align: center;
+}
+
+
+
+.valid{
+  border-bottom: 2px solid #ffffff !important;
+
+}
+
+.invalid{
+  border-bottom: 2px solid #ff3b30 !important;
+
+}
+
+.buttonRadius{
+  border: 2px solid #28a54c !important;
+  border-radius: 10px;
+}
+
+.bgColor{
+  background-color: #fafafa !important;
+}
+
+.cardMarging{
+margin: 2px !important;
+}
+
+.imageSize{
+  width: 60px;
+  height: 58px;
+  margin: 0px;
+  padding: 0px;
+  /!*
+  display: inline !important;
+  overflow: hidden !important;
+  *!/
+}
+
+.listPaddingTopBot{
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+
+.listPaddingLtRt{
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+.getStartedColor{
+  color: #FF4000 !important;
+}
+
+.footerRadius{
+  border-top: 2px solid #FF4000 !important;
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.headerRadius{
+/!*border-left: 2px solid #FF4000 !important;
+border-right: 2px solid #FF4000 !important;*!/
+border-bottom: 2px solid #FF4000 !important;
+border-bottom-left-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+}
+
+.otherRadius{
+  border-top: 2px solid #d1d3d6 !important;
+  border-bottom: 2px solid #d1d3d6 !important;
+}
+
+.radius {
+  border: 2px solid #FF4000 !important;
+  border-radius: 10px;
+}
+
+.cardTextAlignLeft{
+float: left;
+}
+
+
+
+.cardTextAlignRight{
+  float: right;
+}
+
+
+
+
+
+
+.noBorder{
+  border: none;
+}
+
+.noMargin{
+  margin: 0px;
+}
+
+.itemRadiusTop{
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
+.marginTop{
+margin-top: 0px !important;
+}
+
+.marginRight{
+  margin-right: 0px !important;
+}
+
+.marginLeft{
+  margin-left: 0px !important;
+}
+
+.paddingRight{
+  padding-right: 0px !important;
+}
+
+.paddingLeft{
+  padding-left: 0px !important;
+}
+
+.buttonMrPdRg{
+  padding: 0px !important;
+  margin-top: 0px !important;
+  margin-right: 1px !important;
+}
+
+.iconSizeButton{
+  font-size: 30px !important;
+}
+
+.buttonMrPdLt{
+  padding: 0px !important;
+  margin-top: 0px !important;
+  margin-left: 1px !important;
+}
+
+.marginTopBot{
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.popup{
+  border-radius: 10px !important;
+}
+
+.noPadding{
+  padding: 0px;
+}
+
+.buttonCardLeft{
+  border-bottom-left-radius: 15px !important;
+}
+
+.buttonCardRight{
+  border-bottom-right-radius: 15px !important;
+}
+
+.itemRadiusBottom{
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+}
+
+.cardRadius{
+  border-radius: 15px !important;
+}
+
+.cardOpacity{
+  opacity: 0.7;
+}
+
+.statusPositive{
+  color: #28a54c;
+}
+
+.buttonRestart{
+  color: #e6b400;
+}
+
+.statusNegative{
+  color: #e42012 !important;
+}
+
+.buttonColorGreen{
+  background-color: #337F07;
+  border-color: #337F07;
+  color: #fafafa;
+}
+
+.buttonColorYellow{
+  background-color: #ADC41A;
+  border-color: #ADC41A;
+  color: #fafafa;
+}
+
+
+.cardTopColor{
+  background-color: #696565;
+  border-color: #696565;
+}
+
+.boldText{
+  font-weight: bold;
+
+}
+
+.buttonColorBlue{
+  background-color: #07657F;
+  border-color: #07657F;
+  color: #fafafa;
+}
+
+.cardText{
+  color: #007aff !important;
+}
+
+.bgDark{
+  background-size: cover;
+}
+
+.backgroundSize{
+  /!*background-size: auto;
+  background-position: inherit;*!/
+  width: 250%;
+  z-index: auto;
+}
+
+
+.otherButtonsRadius{
+  /!*border-right: 2px solid #FF4000 !important;
+  border-left: 2px solid #FF4000 !important;*!/
+  border-top: 2px solid #FF4000 !important;
+  border-radius: 10px;
+}
+
+.buttonIconSize{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.headerIconSize:before{
+  font-size: 20px !important;
+}
+
+.iconSize:before{
+  padding-t.fontInput{
+  color: #FF4000 !important;
+}
+op: 10px !important;
+  font-size: 55px !important;
+}*//*
+.buttonMargin{
+ /!* margin-right: 10px !important;
+ *!/ margin-left: 10px !important;
+    margin-right: 30px !important;
+}*/
+.cardRadius{
+  border: 2px solid #d1d3d6 !important;
+  border-radius: 10px;
+}
+.buttonRadius{
+  border: 2px solid #d1d3d6 !important;
+  border-radius: 50px;
+}
+.fontInput{
+  color: #0c63ee !important;
+}
+
+.fontStyle{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.buttonPadding{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.alignImg{
+  align-self: center;
+}
+.alignLogo{
+  text-align: center;
+}
+.fontSize{
+  font-size: 24px;
+}
